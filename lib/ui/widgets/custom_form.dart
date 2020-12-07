@@ -46,7 +46,6 @@ class _CustomFormState extends State<CustomForm> {
                   labelText: 'Usuário',
                   hintText: 'Informe o login de usuário',
                   labelStyle: TextStyle(color: Colors.black),
-                  icon: Icon(Icons.error, color: Colors.red,),
                 ),
                 controller: widget.controller,
                 cursorColor: Colors.black,
